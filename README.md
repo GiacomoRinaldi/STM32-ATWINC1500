@@ -1,0 +1,2 @@
+# STM32-with-ATWINC1500
+This repository demonstrates an application of Adafruit's ATWINC1500 WIFI Breakout to the NUCLEO-L476RG from STMicro. Code files were generated in the STM32CubeIDE, and the pinouts can be found in the winc_config.h file. To adapt these examples to fit other STMicro MCUs or other WIFI security types (WPA2 PSK, WEP, etc...), follow the comments outlined in main.c as well as main.h.   
